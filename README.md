@@ -37,7 +37,13 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 Edit this file (README.md) and complete the following:
 
 - URL to live application: 
+- [https://ant513g.github.io/my-first-app/](https://ant513g.github.io/my-first-app/)
+- *Note: I opted to re-add the link to Learn React for the App to work instead of removing the test.*
+
 - How did you deploy it?
+- Via Github Page - First I downloaded npx and npm. Next I cloned the repository. I then linked VSCode and Github to create a remote environmemt be able to sync the local files and the files on Github. Then I created actions to build and deploy the app. Once that worked, I selected the source and added a page to be able to view it.
+
 - What code editor are you using?
+- VSCode
 
 That is all!
